@@ -8,7 +8,6 @@ from tflearn.layers.conv import conv_2d, max_pool_2d
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.estimator import regression
 from keras.utils import np_utils
-import matplotlib.pyplot as plt
 
 
 benign_train = np.load('benign_train_preprocessed_final.npy')
