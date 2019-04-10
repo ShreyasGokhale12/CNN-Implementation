@@ -79,9 +79,4 @@ model.fit({'input': X_train}, {'targets': y_train}, n_epoch=5, validation_set=({
 
 scores = model.evaluate(X_test,y_test)
 print(scores)
-
-result = np.zeros(len(scores))
-for i in range(len(scores)):
-    a  = np.argmax(scores[i])
-    result[i] = a
     
