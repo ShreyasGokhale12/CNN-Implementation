@@ -1,4 +1,4 @@
-This is the code of CNN which was written by me for one of Hackathons. Along with this we had used occlusion to indicate the tissue in the image affected the most. I took snippets of code for occlusion from 1-2 online articles and modified it. Hence I am not including it in this
+This is the code of CNN which was written by me for one of Hackathon. Along with this we had used occlusion to indicate the tissue in the image affected the most. I took snippets of code for occlusion from 1-2 online articles and modified it. Hence I am not including it in this
 
 Dataset used - BreakHis 
 
